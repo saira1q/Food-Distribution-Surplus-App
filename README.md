@@ -1,2 +1,8 @@
-# Food-Distribution-Surplus-App
-Explore our Food Surplus Redistribution App's frontend – a simple, user-friendly interface connecting surplus food producers with those in need. Effortlessly list and discover surplus items, fostering local community support. Join us in reducing food waste and making a positive impact! 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
